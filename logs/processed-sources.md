@@ -250,3 +250,15 @@ Audit trail of ingested content channels and processing runs for Qavyo Restauran
   - 3 automotive/boat/RV dealership and audit clips
 - **Quality Check Status:** 100% Pass (846/846 files compliant with schema, category hierarchy, numerical integrity, and source attribution)
 - **Ingestion Status:** 100% Complete
+
+
+## 15. Kallaway YouTube Long-Form Video Collection
+
+- **Source Channel:** [@kallawaymarketing](https://www.youtube.com/@kallawaymarketing/videos)
+- **Tracking Registry:** [`sources/youtube-lists/kallaway-videos.csv`](../sources/youtube-lists/kallaway-videos.csv)
+- **Total Cataloged Videos:** 102
+- **Total Substantive Dossiers Ingested:** 102 files in `knowledge/kallaway/kallaway-full-form/`
+- **Naming Structure:** Number and clean title slug (`{serial}-{slug}.md`)
+- **Total Triaged / Skipped:** 0
+- **Quality Check Status:** 100% Pass (102/102 files verified for schema compliance, section architecture, numerical integrity, and source attribution)
+- **Ingestion Status:** 100% Complete
